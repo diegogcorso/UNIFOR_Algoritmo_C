@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521343254 source:c:\users\thereza\documents\github\unifor_algoritmo_c\comparador_de_divisao\main.c
+	<stdio.h>
+	<stdlib.h>
+
